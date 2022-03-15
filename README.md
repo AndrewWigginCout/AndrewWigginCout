@@ -7,7 +7,7 @@ I have a couple of technically challenging apps in my repo.
 List of projects with sizes by lines:
 |Title       | line count|
 |------------|-----------|
-|cube        | 223|
+|[cube](https://github.com/AndrewWigginCout/cube)| 223|
 |stopwatches | 227|
 |bookmarks   | 207|
 |sha-1		   | 94 |
