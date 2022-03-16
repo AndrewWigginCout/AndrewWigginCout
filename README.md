@@ -5,10 +5,10 @@ FOR SALE: ENTRY LEVEL PROGRAMMER
 I have a couple of technically challenging apps in my repo.
 
 List of projects with sizes by lines:
-|Title       | line count|
-|------------|-----------|
-|[cube](https://github.com/AndrewWigginCout/cube)| 223|
-|stopwatches | 227|
+|Title                                                          | line count|
+|---------------------------------------------------------------|----|
+|[cube](https://github.com/AndrewWigginCout/cube)               | 223|
+|[stopwatches](https://github.com/AndrewWigginCout/stopwatches) | 227|
 |bookmarks   | 207|
 |sha-1		   | 94 |
 |boggle		   | 80 |
