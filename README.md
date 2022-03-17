@@ -9,7 +9,7 @@ List of projects with sizes by lines:
 |---------------------------------------------------------------|----|
 |[cube](https://github.com/AndrewWigginCout/cube)               | 223|
 |[stopwatches](https://github.com/AndrewWigginCout/stopwatches) | 227|
-|bookmarks   | 207|
+|[bookmarks](https://github.com/AndrewWigginCout/bookmarks)     | 207|
 |sha-1		   | 94 |
 |boggle		   | 80 |
 |torcpp		   | 470|
