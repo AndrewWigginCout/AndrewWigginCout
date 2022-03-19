@@ -27,7 +27,7 @@ https://github.com/AndrewWigginCout/torhc_c-
 This verifies the file checksums of torrent payloads.
 Tor Hash Check In C++ was me actually putting that newfound confidence to work. That was the first time I "collaborated" with someone else. I put that in quotes because all I did was use somebody else's library. But it was interesting because in C++ you can literally link your code bases together using the compiler. Python is so much simpler with an import statement, but alas, I hadn't learned Python yet.
 
-[https://github.com/AndrewWigginCout/stopwatches](../stopwatches)
+[https://github.com/AndrewWigginCout/stopwatches](../../stopwatches)
 This is a GUI app, a multi stopwatch. Good for time keeping your shifts.
 In contrast to how I feel about the previous two, I don't think Stopwatches is anything remarkable. I feel now that Tkinter is a dead end; nobody is gonna pay me to do it. It's not robust I suspect.
 
