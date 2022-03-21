@@ -11,7 +11,7 @@ List of projects with sizes by lines:
 |[stopwatches](https://github.com/AndrewWigginCout/stopwatches) | 227|
 |[bookmarks](https://github.com/AndrewWigginCout/bookmarks)     | 207|
 |[sha-1](https://github.com/AndrewWigginCout/sha-1_passwords)		   | 94 |
-|boggle		   | 80 |
+|[boggle](../../../boggle)		   | 80 |
 |torcpp		   | 470|
 |torpy		   | 220|
 |matrix		   | 150|
