@@ -7,12 +7,12 @@ I have a couple of technically challenging apps in my repo.
 List of projects with sizes by lines:
 |Title                                                          | line count|
 |---------------------------------------------------------------|----|
-|[cube](https://github.com/AndrewWigginCout/cube)               | 223|
-|[stopwatches](https://github.com/AndrewWigginCout/stopwatches) | 227|
-|[bookmarks](https://github.com/AndrewWigginCout/bookmarks)     | 207|
-|[sha-1](https://github.com/AndrewWigginCout/sha-1_passwords)		   | 94 |
+|[cube](../../../cube)               | 223|
+|[stopwatches](../../../stopwatches) | 227|
+|[bookmarks](../../../bookmarks)     | 207|
+|[sha-1](../../../sha-1_passwords)		   | 94 |
 |[boggle](../../../boggle)		   | 80 |
-|torcpp		   | 470|
+|torcpp(../../../torhc_c-)		   | 470|
 |torpy		   | 220|
 |matrix		   | 150|
 |skyscrapers | 150|
