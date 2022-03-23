@@ -12,7 +12,7 @@ List of projects with sizes by lines:
 |[bookmarks](../../../bookmarks)     | 207|
 |[sha-1](../../../sha-1_passwords)		   | 94 |
 |[boggle](../../../boggle)		   | 80 |
-|torcpp(../../../torhc_c-)		   | 470|
+|[torcpp](../../../torhc_c-)		   | 470|
 |torpy		   | 220|
 |matrix		   | 150|
 |skyscrapers | 150|
