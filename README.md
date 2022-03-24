@@ -14,7 +14,7 @@ List of projects with sizes by lines:
 |[boggle](../../../boggle)		   | 80 |
 |[torcpp](../../../torhc_c-)		   | 470|
 |torpy		   | 220|
-|matrix		   | 150|
+|[matrix](../../../matrix-determinant-calculator-cpp)		   | 150|
 |skyscrapers | 150|
 
 There are no forks here. With the exceptions of sha-1 and torhcc++ where I include someone else's code to SHA-1 hash, everything here is written by me.
@@ -31,7 +31,7 @@ Tor Hash Check In C++ was me actually putting that newfound confidence to work. 
 This is a GUI app, a multi stopwatch. Good for time keeping your shifts.
 In contrast to how I feel about the previous two, I don't think Stopwatches is anything remarkable. I feel now that Tkinter is a dead end; nobody is gonna pay me to do it. It's not robust I suspect.
 
-[https://github.com/AndrewWigginCout/sha-1_passwords](https://github.com/AndrewWigginCout/sha-1_passwords)
+[https://github.com/AndrewWigginCout/sha-1_passwords](../../../sha-1_passwords)
 Although SHA-1 Passwords is a pretty simple idea, I think it's one of my cooler ideas. It's less code wizardry and more of a practical "life hack" if you will. Plus it's my most documented app, so check it out. The description and explanation is better than my essay here I think.
 
 Lately instead of wasting my time building apps in the wrong language, or the wrong framework, I'm thinking of the bigger picture. I build with the intention of learning the skills that are in demand, and I learn and move on rather than spending a lot of time really figuring the nuances.
