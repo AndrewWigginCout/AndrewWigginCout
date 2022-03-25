@@ -12,18 +12,18 @@ List of projects with sizes by lines:
 |[bookmarks](../../../bookmarks)     | 207|
 |[sha-1](../../../sha-1_passwords)		   | 94 |
 |[boggle](../../../boggle)		   | 80 |
-|[torcpp](../../../torhc_c-)		   | 470|
-|torpy		   | 220|
+|[torhc_cpp](../../../torhc_cpp)		   | 470|
+|[torhc_py](../../../torhc_py)		   | 220|
 |[matrix](../../../matrix-determinant-calculator-cpp)		   | 150|
-|skyscrapers | 150|
+|[skyscrapers](../../../skyscrapers) | 150|
 
 There are no forks here. With the exceptions of sha-1 and torhcc++ where I include someone else's code to SHA-1 hash, everything here is written by me.
 
-https://github.com/AndrewWigginCout/cube
+[https://github.com/AndrewWigginCout/cube](../../../cube)
 A 2x2x2 Rubik's Cube solver.
 Cube was when I arrived, when I leveled up my programming ability and finally felt that I could figure out how to program anything. I had just finished DS and Algos so my eyes opened on how to intelligently use those principles in my code.
 
-https://github.com/AndrewWigginCout/torhc_c-
+[https://github.com/AndrewWigginCout/torhc_cpp](../../../torhc_cpp)
 This verifies the file checksums of torrent payloads.
 Tor Hash Check In C++ was me actually putting that newfound confidence to work. That was the first time I "collaborated" with someone else. I put that in quotes because all I did was use somebody else's library. But it was interesting because in C++ you can literally link your code bases together using the compiler. Python is so much simpler with an import statement, but alas, I hadn't learned Python yet.
 
