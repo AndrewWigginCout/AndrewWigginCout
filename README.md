@@ -17,6 +17,9 @@ List of projects with sizes by lines:
 |[matrix](../../../matrix-determinant-calculator-cpp)		   | 150|
 |[skyscrapers](../../../skyscrapers) | 150|
 
+Other:
+[Leetcode](../../../leetcode.com-problems)
+
 There are no forks here. With the exceptions of sha-1 and torhcc++ where I include someone else's code to SHA-1 hash, everything here is written by me.
 
 [https://github.com/AndrewWigginCout/cube](../../../cube)
