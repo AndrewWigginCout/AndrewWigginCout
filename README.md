@@ -16,6 +16,7 @@ List of projects with sizes by lines:
 |[torhc_py](../../../torhc_py)		   | 220|
 |[matrix](../../../matrix-determinant-calculator-cpp)		   | 150|
 |[skyscrapers](../../../skyscrapers) | 150|
+[sudoku-cpp](../../../sudoku-cpp)| 440|
 
 Other:
 [Leetcode](../../../leetcode.com-problems)
