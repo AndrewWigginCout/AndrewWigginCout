@@ -1,6 +1,5 @@
-Who got a perfect score on his statistics final and has two thumbs? 👍 THIS GUY 👍
+I got a perfect score on my statistics final.
 
-FOR SALE: ENTRY LEVEL PROGRAMMER
 
 I have a couple of technically challenging apps in my repo.
 
