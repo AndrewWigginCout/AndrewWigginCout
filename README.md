@@ -1,5 +1,8 @@
 I got a perfect score on my statistics final.
 
+Check out my React App.
+It's an implementation of the Boggle dice game.
+[boggle-reactjs](../../../boggle-reactjs)
 
 I have a couple of technically challenging apps in my repo.
 
